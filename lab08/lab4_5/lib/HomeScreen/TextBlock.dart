@@ -1,5 +1,6 @@
+
 import 'package:flutter/material.dart';
-import 'package:lab4_5/NFTScreen/NFTScreen.dart';
+import 'package:lab4_5/%20NFTScreen/NFTScreen.dart';
 
 import '../Common/TwoButtonsItem.dart';
 
